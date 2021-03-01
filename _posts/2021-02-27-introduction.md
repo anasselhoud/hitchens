@@ -12,6 +12,7 @@ Notre monde évolue très rapidement au point qu'il devient plus difficile de su
 Mon objectif dans ce projet de veille technologique de l'Ecole Centrale de Lyon est d'étudier l'évolution de la technologie à travers l'histoire jusqu'à nos jours, les projections de son développement dans le futur, et de vérifier s'il est plus probable que la singularité technologique se produise dans les années à venir en see basant sur une analyse de l'état actuel. Avant tout, commençons par une première définition du concept principal de cette étude.
 
 ### C'est quoi la singularité technologique?
+Pour débuter avec une définition directe, la singularité technologique représente le niveau de développement technologique où l'intelligence humaine devient dépassée par l'intelligence artificielle. 
 
 # Plan de l'étude
 1. Clone and navigate to chatbot directory.

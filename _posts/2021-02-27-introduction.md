@@ -5,7 +5,7 @@ category: Vecl
 layout: post
 ---
 
-Lorsque j'ai choisi de travailler sur ce sujet pour la première fois, je venais de terminer la lecture de deux livres qui couvrent presque la même thématique. L'un d'eux est Homo Deus de Yoval Noah Harari, dans lequel il explore différents thèmes et théories sur l'avenir de l'humanité - en relation avec de nombreux facteurs, dont les avancées technologiques. Et c'est ce qui nous intéresse dans cette présentation.
+Lorsque j'ai opté pour le choix de ce sujet pour la première fois, je venais de terminer la lecture de deux livres qui couvrent presque la même thématique. L'un d'eux est Homo Deus de Yoval Noah Harari, dans lequel il explore différents thèmes et théories sur l'avenir de l'humanité - en relation avec de nombreux facteurs, dont les avancées technologiques. Et c'est ce qui nous intéresse dans cette présentation.
 
 <img style="float: center;"  src="https://github.com/anasselhoud/tech-singularity/blob/master/assets/images/Sans%20titre-2.jpg?raw=true" width="550" height="250" />
 

@@ -13,7 +13,7 @@ Notre monde évolue très rapidement au point qu'il devient plus difficile de su
 Mon objectif dans ce projet de veille technologique de l'Ecole Centrale de Lyon est d'étudier l'évolution de la technologie à travers l'histoire jusqu'à nos jours, les projections de son développement dans le futur, et de vérifier s'il est plus probable que la singularité technologique se produise dans les années à venir en see basant sur une analyse de l'état actuel. Avant tout, commençons par une première définition du concept principal de cette étude.
 
 ### C'est quoi la singularité technologique?
-Pour débuter avec une définition directe, la singularité technologique représente le limite du développement technologique où l'intelligence humaine devient dépassée par l'intelligence artificielle.  En fait, la plupart des spécialistes de IT ou IA ne se demandent pas si cela va se produire, mais quand cela va se produire. Un regard cumulatif sur les experts en IA donne une estimation moyenne du moment où la singularité se produira en 2040-2050.
+Pour débuter avec une définition directe, la singularité technologique représente le limite du développement technologique où l'intelligence humaine devient dépassée par l'intelligence artificielle.  En fait, la plupart des spécialistes de IT ou IA ne se demandent pas si cela va se produire, mais quand cela va se produire. Un regard cumulatif sur les experts en IA donne une estimation moyenne du moment où la singularité se produira au milieu du siècle actuel.
 
 <img style="float: center;"  src="https://github.com/anasselhoud/tech-singularity/blob/master/assets/images/22.png?raw=true" width="550" height="250" />
 

@@ -20,20 +20,13 @@ Pour débuter avec une définition directe, la singularité technologique repré
 
 Le mot ``` Singularité``` représente le seuil d'un événement ou d'un concept au-delà duquel les lois du concept sont enfreintes. Il est également utilisé en cosmologie et en astrophysique pour discuter du comportement de la matière à l'intérieur d'un trou noir. 
 
+Notre étude suivera le plan ci-dessous (vous pouvez cliquer sur les titres pour accéder au contenu de chaque partie).
+
 # Plan de l'étude
-1. Clone and navigate to chatbot directory.
+1. La technologie de nos jours
 
-2. Install the required packages.
-```
-pip install -r requirements.txt
-```
+2. Les scénarios de la singularité technologique
 
-3. Run the python server.
-```
-python main.py 
-```
-or 
-```
-python main-host.py
-```
+3. Les effets de la singularité
+
 

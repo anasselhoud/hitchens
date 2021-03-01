@@ -5,7 +5,7 @@ category: Vecl
 layout: post
 ---
 
-Lorsque j'ai choisi de travailler sur ce sujet pour la première fois, je venais de terminer la lecture de deux livres qui couvrent presque cette question. L'un d'eux est Homo Deus de Yoval Noah Harari, dans lequel il explore différents thèmes et théories sur l'avenir de l'humanité - en relation avec de nombreux facteurs, dont les avancées technologiques. Et c'est ce qui nous intéresse dans cette présentation.
+Lorsque j'ai choisi de travailler sur ce sujet pour la première fois, je venais de terminer la lecture de deux livres qui couvrent presque la même thématique. L'un d'eux est Homo Deus de Yoval Noah Harari, dans lequel il explore différents thèmes et théories sur l'avenir de l'humanité - en relation avec de nombreux facteurs, dont les avancées technologiques. Et c'est ce qui nous intéresse dans cette présentation.
 
 
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/81hMjlT14ML.jpg" width="150" height="220" />

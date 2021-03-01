@@ -5,17 +5,16 @@ category: Vecl
 layout: post
 ---
 
-“That was what the county coroner asked me at the inquiry. It is my strong impression that I heard it, and yet, among the crash of the gale and the creaking of an old house, I may possibly have been deceived.”
+Lorsque j'ai choisi de travailler sur ce sujet pour la première fois, je venais de terminer la lecture de deux livres qui couvrent presque cette question. L'un d'eux est Homo Deus de Yoval Noah Harari, dans lequel il explore différents thèmes et théories sur l'avenir de l'humanité - en relation avec de nombreux facteurs, dont les avancées technologiques. Et c'est ce qui nous intéresse dans cette présentation.
 
-“Was your sister dressed?”
+![Alt Text](https://www.goodreads.com/book/show/31138556-homo-deus)
 
-“No, she was in her night-dress. In her right hand was found the charred stump of a match, and in her left a match-box.”
+Notre monde évolue très rapidement au point qu'il est très difficile de suivre le courant de l'innovation, de la recherche et du développement technologique, mais jusqu'à quel niveau? 
+Mon objectif dans ce projet de veille technologique de l'Ecole Centrale de Lyon est d'étudier l'évolution de la technologie à travers l'histoire jusqu'à nos jours, les projections de son développement dans le futur, et de vérifier s'il est plus probable que la singularité technologique se produise dans les années à venir.
 
-![Alt Text](https://media.giphy.com/media/hVlYEexgKvttKtqhFx/giphy.gif)
+# # C'est quoi la singularité technologique?
 
-# Overview
-
-# Installation
+# Plan de l'étude
 1. Clone and navigate to chatbot directory.
 
 2. Install the required packages.

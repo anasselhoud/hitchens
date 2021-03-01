@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hitchens"
+title: "Technological Singularity"
 ---
 
 An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).

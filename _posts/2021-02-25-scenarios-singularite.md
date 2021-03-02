@@ -1,5 +1,5 @@
 ---
-title: "Les scénarios de la singularité technologique"
+title: "Scénarios de la singularité technologique"
 layout: post
 author: "Anass El Houd"
 categories: Vecl

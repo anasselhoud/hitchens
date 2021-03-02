@@ -25,7 +25,7 @@ Notre étude suivera le plan ci-dessous (vous pouvez cliquer sur les titres pour
 # Plan de l'étude
 1. [La technologie de nos jours ](https://aelhoud.me/tech-singularity/vecl/2021/02/26/technology-now.html)
 
-2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/26/technology-now.html)
+2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/25/scenarios-singularite.html)
 
 3. Conséquences et Effets de la singularité
 

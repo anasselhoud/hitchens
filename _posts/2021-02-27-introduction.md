@@ -23,10 +23,10 @@ Le mot ``` Singularité``` représente le seuil d'un événement ou d'un concept
 Notre étude suivera le plan ci-dessous (vous pouvez cliquer sur les titres pour accéder au contenu de chaque partie).
 
 # Plan de l'étude
-1. La technologie de nos jours
+1. [ILa technologie de nos jours ](https://aelhoud.me/tech-singularity/vecl/2021/02/26/technology-now.html)
 
-2. Les scénarios de la singularité technologique
+2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/26/technology-now.html)
 
-3. Les effets de la singularité
+3. Conséquences et Effets de la singularité
 
 

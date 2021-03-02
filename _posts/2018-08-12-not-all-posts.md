@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Les scénarios de la singularité technologique"
 layout: post
-author: "Pat Dryburgh"
-categories: opinion
+author: "Anass El Houd"
+categories: Vecl
 ---
 
 Not all posts need a title.

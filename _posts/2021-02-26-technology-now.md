@@ -31,6 +31,19 @@ Même si les agents de l'IA n'avaient pas reçu d'instructions explicites sur la
 
 Ces actions ont montré comment les agents d'IA pouvaient apprendre à utiliser les choses autour d'eux comme des outils, selon l'équipe d'OpenAI. C'est important non pas parce que l'IA doit être meilleure pour se cacher et chercher, mais parce qu'elle suggère une façon de construire l'IA qui peut résoudre des problèmes réels et ouverts.
 
+## Vers la singularité?
+
+Quand on parle de la singularité techno, ceux qui croient qu’elle est proche font intervenir deux facteurs cruciaux :
+<img style="float: center;"  src="https://i.ibb.co/dJyhjPt/Capture-d-e-cran-2021-03-10-a-22-02-22.png"  />
+
+
+1. La croissance technologiques, que ce soient la création de nouveaux algorithmes, de nouvelles idées et innovations, de nouvelles méthodes ou processus… et la croissance de la puissance de calcul (c’est à dire le nombre d’opérations par seconde, l’invention des GPU TPU…). Ces deux facteurs sont liées à des lois comme la loi de Moore qui stipule dans sa version initiale que le nombre de transistors dans un circuit intégré double tous les deux ans environ. 
+
+
+2. Ray Kurzweil qui est un futuriste, il va essayer d’étendre cette loi à d’autres formes de calculs, et donc il a proposé "la loi du progrès accéléré", selon laquelle le taux de changement dans une grande variété de systèmes évolutifs (y compris mais non limité à la croissance des technologies) tend à augmenter de manière exponentielle.
+
+
+
 Le chapitre suivant:
 
 2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/25/scenarios-singularite.html)

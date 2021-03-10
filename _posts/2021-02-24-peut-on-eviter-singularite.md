@@ -12,6 +12,8 @@ Pour illustrer cela, dans les années 1960, la population mondiale connaissait e
 
 ### Et maintenant, s’il arrive, comment peut-on réduire ses effets?
 
+<img style="float: center;"  src="https://thumbs-prod.si-cdn.com/XEqQfsk1NoCtml7LUQU7nKi5SbA=/420x240/filters:focal(537x371:538x372)/https://public-media.si-cdn.com/filer/01/d2/01d2d8b5-f4fd-49e3-8f1c-4321fdfa27b5/img_3471.jpg"  />
+
 Drexler fait valoir que nous pouvons penser à plusieurs solutions et stratégies, par exemple, confiner ces dispositifs transhumains afin que leurs résultats puissent être examinés et utilisés en toute sécurité. Je soutiens que le confinement est intrinsèquement peu pratique. Imaginez-vous enfermé dans votre maison avec seulement un accès limité aux données à l'extérieur, à vos maîtres. Si ces maîtres pensaient à un rythme - disons - un million de fois plus lent que le vôtre, il ne fait aucun doute que sur une période de plusieurs années (votre temps), vous pourriez trouver un moyen de vous échapper.
 
 Une autre approche de l'enfermement consiste à établir des règles dans l'esprit de l'entité surhumaine créée. Je pense que toute règle suffisamment stricte pour être efficace produirait également un dispositif dont la capacité serait clairement inférieure aux versions sans entraves (la concurrence humaine favoriserait donc le développement des modèles les plus dangereux).

@@ -19,7 +19,7 @@ La cause précise de ce changement est la création imminente par la technologie
 
 
 
-## Conséquenes?: 
+## Conséquenes? : 
 
 Plusieurs conséquences ont été imaginés et proposées par des futuristes et des scientifiques comme Stephen Hawking, Ray Kurzweil et d’autres. Ces idées sont contraintes par l'analyse des scientifiques qui l'ont proposé. J'essaiera d'ajouter ma propre intérprétation de chaque idée.
 

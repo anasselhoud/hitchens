@@ -29,10 +29,10 @@ Notre étude suivera le plan ci-dessous (vous pouvez cliquer sur les titres pour
 
 2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/25/scenarios-singularite.html)
 
-3. Conséquences et Effets de la singularité
+3. [Conséquences et Effets de la singularité](https://aelhoud.me/tech-singularity/vecl/2021/02/25/scenarios-singularite.html)
 
-4. Peut-on éviter la singularité?
+4. [Peut-on éviter la singularité?](https://aelhoud.me/tech-singularity/vecl/2021/02/24/peut-on-eviter-singularite.html)
 
-5. Conclusion finale
+5. [Conclusion finale](https://aelhoud.me/tech-singularity/vecl/2021/02/24/conclusion.html)
 
 

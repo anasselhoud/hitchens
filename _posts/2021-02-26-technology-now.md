@@ -31,4 +31,7 @@ Même si les agents de l'IA n'avaient pas reçu d'instructions explicites sur la
 
 Ces actions ont montré comment les agents d'IA pouvaient apprendre à utiliser les choses autour d'eux comme des outils, selon l'équipe d'OpenAI. C'est important non pas parce que l'IA doit être meilleure pour se cacher et chercher, mais parce qu'elle suggère une façon de construire l'IA qui peut résoudre des problèmes réels et ouverts.
 
+Le chapitre suivant:
+
+2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/25/scenarios-singularite.html)
 

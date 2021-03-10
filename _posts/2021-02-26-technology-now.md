@@ -44,6 +44,7 @@ Quand on parle de la singularité techno, ceux qui croient qu’elle est proche 
 
 2. Ray Kurzweil qui est un futuriste, il va essayer d’étendre cette loi à d’autres formes de calculs, et donc il a proposé "la loi du progrès accéléré", selon laquelle le taux de changement dans une grande variété de systèmes évolutifs (y compris mais non limité à la croissance des technologies) tend à augmenter de manière exponentielle.
 
+<img style="float: center;"  src="https://lh4.googleusercontent.com/S2aSdUsZaXBMj-jaBHYcXe6qgMsUhvrowCNrTq5r8W4s41SrO7XExuKx_wCVyJW-E5HmkR1Olss-v6rMhe6BRhrjXByay-AkW2S7gJs7z6AyApxS5BmNnZJ_1jnWMtuQgS3LZKFW4MY" width="400"/>
 
 
 Le chapitre suivant:

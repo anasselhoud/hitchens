@@ -14,7 +14,7 @@ Pour illustrer cela, dans les années 1960, la population mondiale connaissait e
 
 ### Et maintenant, s’il arrive, comment peut-on réduire ses effets?
 
-<img style="float: center;"  src="https://i0.wp.com/babylonradio.com/wp-content/uploads/2017/03/robots.jpg?resize=750%2C560&ssl=1"  />
+<img style="float: center;"  src="https://i0.wp.com/babylonradio.com/wp-content/uploads/2017/03/robots.jpg?resize=750%2C560&ssl=1" width="300" />
 
 Drexler fait valoir que nous pouvons penser à plusieurs solutions et stratégies, par exemple, confiner ces dispositifs transhumains afin que leurs résultats puissent être examinés et utilisés en toute sécurité. Je soutiens que le confinement est intrinsèquement peu pratique. Imaginez-vous enfermé dans votre maison avec seulement un accès limité aux données à l'extérieur, à vos maîtres. Si ces maîtres pensaient à un rythme - disons - un million de fois plus lent que le vôtre, il ne fait aucun doute que sur une période de plusieurs années (votre temps), vous pourriez trouver un moyen de vous échapper.
 

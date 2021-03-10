@@ -10,3 +10,6 @@ Comme on a vu, il y a plusieurs idées, points de vue et arguments sur la singul
 Mais ce qu’on sait c’est que personne n’a la moindre idée de ce qui se passe dans un cerveau humain…et on sait pas si une machine intelligente puisse un jour dépasser les fonctions de notre cerveau.
 Aujourd’hui, il n’existe aucun moyen de calculer quand et comment cette évolution de l’intelligence se produirait dans les machines, mais une chose est claire: elle modifierait les principes fondamentaux de la sécurité et la civilisation et notre mode de vie encore et donc il faut intégrer des efforts et des solutions globales pour à la fois suivre et surveiller cette croissance. 
 
+
+
+[Le lien de la présentation sur Google Slide ](https://docs.google.com/presentation/d/1hQzNHCQU86133_TWAI_BFYG0F8en7qyU_o0v9MbdeMc/edit?usp=sharing)

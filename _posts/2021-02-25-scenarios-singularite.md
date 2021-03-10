@@ -33,3 +33,9 @@ Plusieurs conséquences ont été imaginés et proposées par des futuristes et 
 
 6.	Le dernier point qui est le plus pessimiste et le plus imaginaire est que les machines intelligentes inventés vont jouer contre nous et il y aura une révolution et dominance des robots super intelligents qui va induire l’extinction de l’humanité.
 
+
+Le chapitre suivant:
+
+[Peut-on éviter la singularité?](https://aelhoud.me/tech-singularity/vecl/2021/02/24/peut-on-eviter-singularite.html)
+
+

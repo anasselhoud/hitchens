@@ -18,7 +18,9 @@ Pour débuter avec une définition directe, la singularité technologique repré
 
 <img style="float: center;"  src="https://github.com/anasselhoud/tech-singularity/blob/master/assets/images/22.png?raw=true" width="550" height="250" />
 
-Le mot ``` Singularité``` représente le seuil d'un événement ou d'un concept au-delà duquel les lois du concept sont enfreintes. Il est également utilisé en cosmologie et en astrophysique pour discuter du comportement de la matière à l'intérieur d'un trou noir. 
+Le mot ``` Singularité``` représente le seuil d'un événement ou d'un concept au-delà duquel les lois du concept sont enfreintes. Il est également utilisé en cosmologie et en astrophysique pour discuter du comportement de la matière à l'intérieur d'un trou noir.  
+L’origine du concept est Alan Turing, qui était le premier à se poser la question si les machines pouvaient penser, et le premier à introduire un test permettant de savoir si la machine peut être considérée au même niveau de l’intelligence humaine. Alors que le vrai mot de la singularité a été décrit à l’origine par l’auteur Vernor Vinge. Il repose sur l’idée qu’en se basant sur le taux de croissance actuelle de la technologie, et encore plus avec l’invention de l’intelligence artificielle, on arrivera à un moment ou le progres technologique dépassera la capacité des humains à le contrôler ou à prédire le futur et tous les évènements induits. C’est un point dans le temps ou l’intelligence des machine inventés dépassera l’intelligence humaine et la technologie provoquera des changements radicaux dans notre civilisation.
+
 
 Notre étude suivera le plan ci-dessous (vous pouvez cliquer sur les titres pour accéder au contenu de chaque partie).
 
@@ -28,5 +30,9 @@ Notre étude suivera le plan ci-dessous (vous pouvez cliquer sur les titres pour
 2. [Scénarios de la singularité technologique](https://aelhoud.me/tech-singularity/vecl/2021/02/25/scenarios-singularite.html)
 
 3. Conséquences et Effets de la singularité
+
+4. Peut-on éviter la singularité?
+
+5. Conclusion finale
 
 

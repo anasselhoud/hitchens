@@ -40,7 +40,6 @@ Quand on parle de la singularité techno, ceux qui croient qu’elle est proche 
 
 1. La croissance technologiques, que ce soient la création de nouveaux algorithmes, de nouvelles idées et innovations, de nouvelles méthodes ou processus… et la croissance de la puissance de calcul (c’est à dire le nombre d’opérations par seconde, l’invention des GPU TPU…). Ces deux facteurs sont liées à des lois comme la loi de Moore qui stipule dans sa version initiale que le nombre de transistors dans un circuit intégré double tous les deux ans environ. 
 
-<img style="float: center;"  src="https://lh5.googleusercontent.com/Pll6vwij4AeZE6RR6AM62K9EOWXT27z66X2teKGi01DIJEWuoqsvdELrsrux3KaM4tMF8KArDLrdsNPr0-YDl1Ib0T90WBgeNVk_435BD9YKyOSSGRz-LG7PY3wgL2gJAjWa_KwWDrY" width="400"/>
 
 2. Ray Kurzweil qui est un futuriste, il va essayer d’étendre cette loi à d’autres formes de calculs, et donc il a proposé "la loi du progrès accéléré", selon laquelle le taux de changement dans une grande variété de systèmes évolutifs (y compris mais non limité à la croissance des technologies) tend à augmenter de manière exponentielle.
 

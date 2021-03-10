@@ -23,3 +23,6 @@ Une autre approche de l'enfermement consiste à établir des règles dans l'espr
 J'ai fait valoir plus haut que nous ne pouvons pas empêcher la singularité, que son avènement est une conséquence inévitable de la compétitivité naturelle de l'homme et des possibilités inhérentes à la technologie. Et pourtant : nous en sommes les initiateurs. Même la plus grande avalanche est déclenchée par de petites choses. Nous avons la liberté d'établir les conditions initiales, de faire en sorte que les choses se produisent d'une manière moins hostile que d'autres. 
 
 
+Le chapitre suivant:
+
+[Conclusion finale](https://aelhoud.me/tech-singularity/vecl/2021/02/24/conclusion.html)
